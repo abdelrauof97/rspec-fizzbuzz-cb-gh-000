@@ -4,8 +4,7 @@ def fizzbuzz
   if int % 3 == 0 # if the number int is divisible by 3
     "Fizz" # Go fizz
   end
-  
-end
- 
-fizzbuzz(3) 
 
+end
+
+fizzbuzz(3)
